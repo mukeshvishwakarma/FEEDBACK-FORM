@@ -1,0 +1,52 @@
+.Login {
+    margin: 50px auto; 
+    padding: 20px;
+    background-color: #9c9a9a;; 
+    border-radius: 10px;
+    border: 1px solid #3e3d3d;
+    width: 400px; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .Login h2 {
+    text-align: center;
+    font-size: 24px;
+    color: #333; 
+    margin-bottom: 20px; 
+  }
+  
+  .Login label {
+    display: block;
+    margin-bottom: 8px; 
+    font-size: 18px;
+    font-weight: bold;
+    color: #555; 
+  }
+  
+  .inputBox {
+    display: block;
+    width: 90%; 
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 5px;
+    border: 1px solid skyblue; 
+    background-color: #fff;
+    font-size: 16px;
+  }
+  
+  .inputBox:focus {
+    outline: none;
+    border-color: #64a1f4; 
+    box-shadow: 0 0 5px rgba(100, 161, 244, 0.5); 
+  }
+  
+  
+  
+ 
+  
+  form {
+    width: 100%; 
+    padding: 0; 
+  }
+  
+ 

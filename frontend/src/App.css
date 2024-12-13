@@ -1,0 +1,71 @@
+
+.inputBox {
+  display: block;
+  margin: 25px;
+  padding: 7px;
+  width: 300px;
+  border-radius: 5px;
+  margin-left: 40px;
+  border: 1px solid skyblue;
+  /* text-align: center; */
+}
+
+.Login {
+  margin: 100px 100px 200px 600px;
+  background-color: #9c9a9a;
+  border-radius: 10px;
+  border: 1px solid #3e3d3d;
+  width: 400px;
+}
+
+.Login h1 {
+  text-align: center;
+}
+
+.Login p {
+  text-align: center;
+  text-decoration: none;
+}
+
+
+/* Feedbacklist CSSS */
+
+
+.Feedbacklist{
+  text-align: center;
+  margin-top: 50px;
+}
+.Feedbacklist ul{
+  margin: 0px;
+}
+.Feedbacklist ul li{
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 5px;
+  width: 300px;
+  text-decoration: none;
+}
+.Feedbacklist ul li button{
+  margin: -2px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.Feedbacklist ul li button Link{
+  margin: -5px;
+  border-radius: 10px;
+  text-decoration: none;
+
+}
+
+.remember_me{
+  margin-left: 10px;
+  font-size: large;
+  color: aqua;
+}
+
+.remember_me label{
+  margin-left: 25px;
+  margin-top: -23px;
+  
+}
